@@ -76,7 +76,7 @@ To run the project, open the `Classification of Aerial Images.ipynb` notebook in
 
 ## Contributing
 
-Contributions are welcome. Feel free to fork this repository and submit pull requests for improvements or new features.
+Contributions are welcome. Feel free to fork this repository and submit pull requests for improvements or new features. For more detailed information, refer to the provided PDF presentation.
 
 ## License
 

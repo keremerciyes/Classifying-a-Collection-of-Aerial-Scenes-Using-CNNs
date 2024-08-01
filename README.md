@@ -72,7 +72,7 @@ The goal of this project is to adapt a pre-trained ResNet50 model for a custom c
 
 ## Usage
 
-To run the project, open the `environment_project.ipynb` notebook in Jupyter Notebook or JupyterLab and execute the cells in order. Ensure you have the necessary libraries installed, including TensorFlow, NumPy, and Matplotlib.
+To run the project, open the `Classification of Aerial Images.ipynb` notebook in Jupyter Notebook or JupyterLab and execute the cells in order. Ensure you have the necessary libraries installed, including TensorFlow, NumPy, and Matplotlib. 
 
 ## Contributing
 
